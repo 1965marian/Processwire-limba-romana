@@ -1,0 +1,129 @@
+{
+    "file": "site\/modules\/processwire-simplecontactform-master\/SimpleContactFormConfig.php",
+    "textdomain": "site--modules--processwire-simplecontactform-master--simplecontactformconfig-php",
+    "translations": {
+        "494f101afd59705661a70d93c9b8c4b5": {
+            "text": "Trimiti email?"
+        },
+        "d9b480387968d0b3f94ce9deb38b6ffb": {
+            "text": "Ar trebui trimise e-mailurile?"
+        },
+        "5d24153bec3e54f4560b882e464f75cb": {
+            "text": "Subiectul emailului"
+        },
+        "68c61132547351e4133c2b0d9e2e623c": {
+            "text": "Schem\u0103: \u201eExemplu <info@mail.com>, Nume <noreply@bar.de>\u201d"
+        },
+        "de7aae2fd4b7bdb94fb9294ddd7db5cc": {
+            "text": "E-mail: \u201eDe la\u201d-Adres\u0103"
+        },
+        "fae691f37284a3ed4735671c55aebbab": {
+            "text": "Schem\u0103: \u201eFromName <noreply@mail.com>\u201d"
+        },
+        "c6e1755761d35e1edf6a06445322a0b8": {
+            "text": "E-mail: \u201eR\u0103spuns la\u201d-Adres\u0103"
+        },
+        "db6b8cedb5a4cec79daf8923fe7c2c46": {
+            "text": "Op\u021bional; Schem\u0103: \u201eReplyToName <reply@mail.com>\u201d"
+        },
+        "bca435b74fbe4d4f1a27e6c9501345e7": {
+            "text": "Salva\u021bi mesaje"
+        },
+        "a72c016971c68df0f0bdb8dbf72b6e15": {
+            "text": "E-mail: \"C\u0103tre\"-Adres\u0103"
+        },
+        "099d4e7feef0126effe1c80d3a38c149": {
+            "text": "Ar trebui s\u0103 fie salvate mesajele?"
+        },
+        "280bdbf9e514764e2b558c5a45b03ba3": {
+            "text": "Selecta\u021bi un p\u0103rinte pentru articole"
+        },
+        "a62e37420e5e6a181ca308803b0dc543": {
+            "text": "Toate articolele create \u0219i gestionate vor locui sub p\u0103rintele pe care \u00eel selecta\u021bi aici."
+        },
+        "0dbcc3068eef377a9ce43ef306e2362c": {
+            "text": "Dac\u0103 nu este selectat niciun p\u0103rinte, elementele vor fi plasate ca copii ai paginii r\u0103d\u0103cin\u0103 (nu este recomandat)."
+        },
+        "c74c7af741c99a098016a43b792cbaae": {
+            "text": "Salva\u021bi \u0219ablonul de mesaje"
+        },
+        "581be13993819b0b21dccfbbc675e04e": {
+            "text": "Alege\u021bi \u0219ablonul, care este folosit pentru a salva mesajele."
+        },
+        "141488296a6c584c950e5d032c6a532f": {
+            "text": "Ad\u0103uga\u021bi toate c\u00e2mpurile care ar trebui utilizate ca parte a numelui paginii. Alege\u021bi dintre cele existente, poate fi necesar s\u0103 le ad\u0103uga\u021bi mai \u00eent\u00e2i mai jos \u0219i s\u0103 salva\u021bi."
+        },
+        "26a94627fdf7d0c2012efaefc952f8bd": {
+            "text": "Numele paginii \u00eencepe cu un marcaj de timp. Toate c\u00e2mpurile ad\u0103ugate mai sus vor fi ata\u0219ate."
+        },
+        "eacc7f5862cebafd21f6c0a822fc26a6": {
+            "text": "Selecta\u021bi c\u00e2mpurile pentru numele paginii"
+        },
+        "a4ca5edd20d0b5d502ebece575681f58": {
+            "text": "Campuri"
+        },
+        "89f45f023a439eb3e40946764c4547c3": {
+            "text": "Ad\u0103uga\u021bi toate c\u00e2mpurile (alege\u021bi dintre cele existente) care ar trebui s\u0103 fie ata\u0219ate formularului."
+        },
+        "86164bb5d36ffbbcc8e526c672a7c8c9": {
+            "text": "Select form fields"
+        },
+        "a5bcff064d373020775b379cc1398a84": {
+            "text": "Crea\u021bi \u0219i ad\u0103uga\u021bi c\u00e2mpuri"
+        },
+        "8b4b2d7afb2d281bc217c358b7fea118": {
+            "text": "Dac\u0103 dori\u021bi s\u0103 ad\u0103uga\u021bi c\u00e2mpuri inexistente, ad\u0103uga\u021bi-le aici ca o list\u0103 separat\u0103 prin virgul\u0103."
+        },
+        "fb17a06e3aec9a3b4b96ba55d084df2a": {
+            "text": "Redirec\u021biona\u021bi c\u0103tre aceea\u0219i pagin\u0103 dup\u0103 trimiterea cu succes"
+        },
+        "388e6a1c88e9fd3c431c3266fc608da7": {
+            "text": "OP\u021aIONAL: Dac\u0103 prefera\u021bi s\u0103 r\u0103m\u00e2ne\u021bi pe aceea\u0219i pagin\u0103 f\u0103r\u0103 a ad\u0103uga un parametru URL, l\u0103sa\u021bi acest c\u00e2mp necompletat. Redirec\u021bionarea c\u0103tre aceea\u0219i pagin\u0103 \u00eempiedic\u0103 retrimiterea formularelor."
+        },
+        "6fbcf898cbd6432a78959e9b91202b2c": {
+            "text": "Redirec\u021biona\u021bi c\u0103tre o anumit\u0103 pagin\u0103 dup\u0103 trimiterea cu succes"
+        },
+        "0374091849efc4c0d38dc4ff6f08c711": {
+            "text": "OP\u021aIONAL: Dac\u0103 prefera\u021bi s\u0103 r\u0103m\u00e2ne\u021bi pe aceea\u0219i pagin\u0103, l\u0103sa\u021bi acest c\u00e2mp gol."
+        },
+        "41de6d6cfb8953c021bbe4ba0701c8a1": {
+            "text": "Mesaje"
+        },
+        "87b74ebf71923a7992adcc3bb0cad08e": {
+            "text": "Mesaje Email"
+        },
+        "d95f6cd48e1c689d3c2920c22c360da2": {
+            "text": "Mesaj de e-mail (op\u021bional - suprascrie \u0219ablonul de e-mail de baz\u0103)."
+        },
+        "6d501bc564f978f7bc72d00f5ed006c5": {
+            "text": "Utiliza\u021bi %fieldName% ca substituent, de exemplu %fullName%."
+        },
+        "4d4e86e8d4bc29c86b669e1bc8646396": {
+            "text": "Timpul minim"
+        },
+        "5a0b0a78a8267363b22d1999a88a227b": {
+            "text": "Analizeaz\u0103 timpul necesar utilizatorului pentru a completa formularul. Dac\u0103 timpul este sub un timp minim, trimiterea este tratat\u0103 ca spam."
+        },
+        "1a8bd9e17f00434201651d244cba4e59": {
+            "text": "- in secunde -"
+        },
+        "4ee05e2c206dd3dd21aa6f481760b557": {
+            "text": "Timpul maxim"
+        },
+        "a54d44ec9561808d3d6112fff8fc3f03": {
+            "text": "Analizeaz\u0103 timpul necesar utilizatorului pentru a completa formularul. Dac\u0103 timpul dep\u0103\u0219e\u0219te un timp maxim, trimiterea este tratat\u0103 ca spam."
+        },
+        "486239bcc13cd4365aa984b456c13246": {
+            "text": "Restric\u021biona\u021bi trimiterile"
+        },
+        "b2fad597fbc74875fcceb9d6fe6866ec": {
+            "text": "C\u00e2t de des este permis ca formularul s\u0103 fie trimis printr-o singur\u0103 adres\u0103 IP \u00een ultimele 24 de ore."
+        },
+        "50e03fbc1b209b9efad9d5a40f26ef53": {
+            "text": "Exclude\u021bi IP-uri"
+        },
+        "ec30577f94abb8f41985fa03da52e0ee": {
+            "text": "Lista de adrese IP separate prin virgul\u0103 care trebuie excluse de la filtrarea IP."
+        }
+    }
+}

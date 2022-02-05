@@ -1,0 +1,33 @@
+{
+    "file": "site\/modules\/processwire-simplecontactform-master\/SimpleContactForm.module",
+    "textdomain": "site--modules--processwire-simplecontactform-master--simplecontactform-module",
+    "translations": {
+        "94966d90747b97d1f0f206c98a8b1ac3": {
+            "text": "Trimite"
+        },
+        "e16c3ce92ab213033c7bb56ea497b29e": {
+            "text": "V\u0103 rug\u0103m s\u0103 verifica\u021bi datele pe care le-a\u021bi introdus."
+        },
+        "4462fcc77b1deb08d0e7276affa9013c": {
+            "text": "Solicitarea ta de contact a fost trimis\u0103 cu succes!"
+        },
+        "74a1c9a127c9b7f5390b95e1328981fd": {
+            "text": "Ne pare r\u0103u, dar mesajul dvs. nu a trecut testul nostru %s. V\u0103 rug\u0103m s\u0103 preg\u0103ti\u021bi \u00eenc\u0103 un %s."
+        },
+        "6c29485a5e563ff86bef4d4d2932ae95": {
+            "text": "V\u0103 rug\u0103m s\u0103 alege\u021bi un alt p\u0103rinte sau s\u0103 schimba\u021bi \u0219ablonul de apartenen\u021b\u0103. Trebuie s\u0103 permit\u0103 copiilor."
+        },
+        "1af4c5d776806087fe501cb9b6514334": {
+            "text": "Ad\u0103uga\u021bi IP la lista de spam"
+        },
+        "c359103388c476a36a5415fd9608f31d": {
+            "text": "Dac\u0103 activa\u021bi aceast\u0103 caset\u0103 de selectare, alte solicit\u0103ri de contact de la aceast\u0103 adres\u0103 IP vor fi tratate ca spam."
+        },
+        "3112209b2dd9b55cf5dbc4865dd15afd": {
+            "text": "Data creari"
+        },
+        "75ba8d70e3692ba200f0e0df37b4d2ae": {
+            "text": "Adresa IP"
+        }
+    }
+}
